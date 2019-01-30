@@ -4,7 +4,7 @@ S4J3-HackingNews !
 
 Bienvenue
 
-Ceci est nos super HAckingNews designé et codé par la Team Eloise, Momo et Yannick
+Ceci est nos super HackingNews designé et codé par la Team Eloise, Momo et Yannick
 
 Pour le tester tu peux par exemple:
 
