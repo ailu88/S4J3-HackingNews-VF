@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+S4J3-HackingNews !
 
-Things you may want to cover:
+Bienvenue
 
-* Ruby version
+Ceci est nos super HAckingNews designé et codé par la Team Eloise, Momo et Yannick
 
-* System dependencies
+Pour le tester tu peux par exemple:
 
-* Configuration
+Cloner le projet git
 
-* Database creation
+Te rendre à la racine de l'application
 
-* Database initialization
+Et lance la console Rails: rails c
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Merci à vous et bon courage pour cet aprem :)
